@@ -25,9 +25,6 @@ california-house-price-prediction/
 ├── data/
 │   └── housing.csv                      # California census housing dataset
 │
-├── models/
-│   └── lin_reg.pkl                      # Saved Linear Regression model (joblib)
-│
 ├── screenshots/
 │   ├── data_histogram.png               # Feature distribution histograms
 │   ├── geo_scatter.png                  # Geographic housing price scatter plot
